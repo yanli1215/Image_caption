@@ -1,0 +1,13 @@
+pandas
+git+https://github.com/openai/CLIP.git
+transformers
+scenedetect
+opencv-python==3.4.9.31
+scikit-image
+h5py
+librosa
+SpeechRecognition
+dicttoxml
+sed_eval
+matplotlib
+prettytable
