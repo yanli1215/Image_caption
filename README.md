@@ -36,7 +36,8 @@ $ pip install matplotlib
 $ pip install prettytable`
 
 ## Preparation
-Move the video you want to caption into the folder named video_uploads
+1. Move the video you want to caption into the folder named video_uploads;
+2. Download the [COCO pretrained model](https://drive.google.com/file/d/1GYPToCqFREwi285wPLhuVExlz7DDUDfJ/view)(Transformers), [COCO pretrained model](https://drive.google.com/file/d/1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX/view)(MLP+finetuning), [Conceptual Caption pretrained model](https://drive.google.com/file/d/14pXWwB4Zm82rsDdvbGguLfx9F8aM7ovT/view)(MLP+finetuning) and move it to the pretrained_models folder.
 
 ## Run
 Type the following code the start captioning.
