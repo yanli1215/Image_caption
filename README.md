@@ -3,6 +3,8 @@
 In this project, a video caption system that is able to generate image captions on the keyframe and detect sound events of each story unit is developed. For image caption, a simple model, [ClipCap](https://github.com/rmokady/CLIP_prefix_caption) based on [CLIP](https://github.com/openai/CLIP) is used, which seems to be part of a new image captioning paradigm. The objective is to focus on utilizing current models while just training a small mapping network. Rather than learning new semantic entities, this strategy simply learns to adjust the pre-trained model's current semantic knowledge towards the style of the target dataset. 
 The sound event detection with ASR is also implemented in this system to get more information about a video. The SED system can detect specific sound events defined [here](https://github.com/yazdayy/sound-event-detection). Evaluation metrics like BLEU-1 to BLEU-4, CIDEr, SPICE, METEOR, and ROUGE-L will be used to evaluate the caption results.
 
+The link to the final report is [here](https://github.com/yanli1215/Image_caption/blob/main/SCSE21_0061_Liu_Yanli.pdf).
+
 ## Set up
 
 `$ pip install -r requirement.txt`
