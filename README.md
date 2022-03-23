@@ -9,45 +9,31 @@ The link to the final report is [here](https://github.com/yanli1215/Image_captio
 
 `$ pip install -r requirement.txt`
 
-or 
+For PySceneDetect, we use `ffmpeg` to split video. You can download ffmpeg from: https://ffmpeg.org/download.html
 
-`$ pip install pandas`
-
-`$ pip install git+https://github.com/openai/CLIP.git`
-
-`$ pip install transformers`
-
-`$ pip install scenedetect`
-
-`$ pip install opencv-python==3.4.9.31`
-
-`$ pip install scikit-image`
-
-`$ pip install h5py`
-
-`$ pip install librosa`
-
-`$ pip install SpeechRecognition`
-
-`$ pip install dicttoxml`
-
-`$ pip install sed_eval`
-
-$ pip install matplotlib
-
-$ pip install prettytable`
+Note: 
+- Linux users should use a package manager (e.g. sudo apt-get install ffmpeg). 
+- Windows users may require additional steps for PySceneDetect to detect ffmpeg - see the section Manually Enabling split-video Support below for details.
+- macOS users can use Homebrew to install ffmpeg as below:
+    -  `$ brew uninstall ffmpeg`
+    -  `$ brew tap homebrew-ffmpeg/ffmpeg`
+    -  `$ brew install homebrew-ffmpeg/ffmpeg/ffmpeg`
+    -  `$ brew install homebrew-ffmpeg/ffmpeg/ffmpeg --with-openh264`
 
 ## Preparation
 1. Move the video you want to caption into the folder named video_uploads;
-2. Download the [COCO pretrained model](https://drive.google.com/file/d/1GYPToCqFREwi285wPLhuVExlz7DDUDfJ/view)(Transformers), [COCO pretrained model](https://drive.google.com/file/d/1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX/view)(MLP+finetuning), [Conceptual Caption pretrained model](https://drive.google.com/file/d/14pXWwB4Zm82rsDdvbGguLfx9F8aM7ovT/view)(MLP+finetuning) and move it to the pretrained_models folder.
+2. Download the [COCO pre-trained model](https://drive.google.com/file/d/1GYPToCqFREwi285wPLhuVExlz7DDUDfJ/view)(Transformers), [COCO pre-trained model](https://drive.google.com/file/d/1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX/view)(MLP+finetuning), [Conceptual Caption pre-trained model](https://drive.google.com/file/d/14pXWwB4Zm82rsDdvbGguLfx9F8aM7ovT/view)(MLP+finetuning) and move it to the pretrained_models folder.
 
 ## Run
-Type the following code the start captioning.
-`$ python caption_video.py -i covid.mp4 --model transformer -k`
+Type the following code to start captioning.
+`$ python caption_video.py -i covid.mp4 --model mlp -k`
 
-- --input, -i: The path of the input video.
+- --input, -i: The name of the input video.
 - --model, -m: The type of CLIPCAP model used. The value can be either "mlp" or "transformer".
 - --keepframes, -k: Keep the keyframe images after image captioning or not.
+## Result
+The image captioning results and sound events detected is stored in the "covid.mp4-OUTPUT-SED.json".
+For more specific SED with ASR results, you can go to ./SEDwithASR/predict_results folder to see the .xml files for each story unit.
 
 ## Evaluation
 The evaluation of the image captioning results is based on custom reference captions. Ground truth captions should be referenced for video annotations. The annotations for every keyframe of a video are stored in a text file named 'referencen.txt' and put it into the Image_caption folder. The number of custom references has no limits. 
