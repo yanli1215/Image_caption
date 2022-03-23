@@ -1,0 +1,10 @@
+<AudioDoc name="covid-Scene-017.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.32" dur="3.9600000000000004" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="0.32" dur="6.0" event="Female_speech_woman_speaking" text="UNKNOWN">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="6.0" dur="0.2400000000000002" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="6.52" dur="1.4800000000000004" event="Female_speech_woman_speaking" text="since last month">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="7.0" dur="0.8799999999999999" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="7.4" dur="0.47999999999999954" event="Male_speech_man_speaking" text="UNKNOWN">Male_speech_man_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

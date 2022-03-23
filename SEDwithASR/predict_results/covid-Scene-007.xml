@@ -1,0 +1,6 @@
+<AudioDoc name="covid-Scene-007.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.0" dur="1.92" event="Siren">Siren</SoundSegment>
+		<SoundSegment stime="0.08" dur="0.92" event="Car_alarm">Car_alarm</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

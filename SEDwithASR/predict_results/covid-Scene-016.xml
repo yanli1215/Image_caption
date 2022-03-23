@@ -1,0 +1,14 @@
+<AudioDoc name="covid-Scene-016.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.08" dur="1.88" event="Male_speech_man_speaking" text="it's stunning when you look at the numbers">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="0.16" dur="1.8800000000000001" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="2.2" dur="3.92" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="2.36" dur="4.0" event="Female_speech_woman_speaking" text="a timeline of deaths charted by the New York Times">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="6.56" dur="0.3200000000000003" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="6.56" dur="3.04" event="Female_speech_woman_speaking" text="everything the nearly 500,000">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="8.08" dur="0.3200000000000003" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="9.72" dur="0.35999999999999943" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="10.2" dur="0.8800000000000008" event="Female_speech_woman_speaking" text="UNKNOWN">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="11.64" dur="1.3599999999999994" event="Female_speech_woman_speaking" text="just the last 3 months">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

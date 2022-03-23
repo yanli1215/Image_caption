@@ -1,0 +1,6 @@
+<AudioDoc name="covid-Scene-030.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.32" dur="1.68" event="Male_speech_man_speaking" text="it will hit so close to home">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="3.2" dur="2.8" event="Male_speech_man_speaking" text="and at that time it is">Male_speech_man_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

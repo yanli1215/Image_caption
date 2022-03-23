@@ -515,7 +515,7 @@ def predict_asr(self):
         Model = eval(model_type)
         model = Model(sample_rate, window_size, hop_size, mel_bins, fmin, fmax, classes_num, feature_type)
 
-        checkpoint = torch.load(checkpoint_path)
+        checkpoint = torch.load(checkpoint_path, map_location='cpu')
         model.load_state_dict(checkpoint['model'])
         
         end_time = time.time()

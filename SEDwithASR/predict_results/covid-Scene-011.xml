@@ -1,0 +1,6 @@
+<AudioDoc name="covid-Scene-011.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.4" dur="1.2799999999999998" event="Female_speech_woman_speaking" text="why did Mike Albert">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="0.48" dur="0.52" event="Conversation">Conversation</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

@@ -1,0 +1,7 @@
+<AudioDoc name="covid-Scene-012.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.24" dur="1.76" event="Female_speech_woman_speaking" text="for Christmas they got the virus">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="0.48" dur="0.4" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="4.0" dur="0.3200000000000003" event="Female_speech_woman_speaking" text="UNKNOWN">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

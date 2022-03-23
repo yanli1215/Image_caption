@@ -1,0 +1,12 @@
+<AudioDoc name="covid-Scene-031.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.48" dur="2.88" event="Male_speech_man_speaking" text="you can't get no more closer to home than the queen of the house">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="4.0" dur="1.4000000000000004" event="Male_speech_man_speaking" text="losing his queen of iron">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="4.24" dur="0.9199999999999999" event="Female_speech_woman_speaking" text="his Queen">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="4.56" dur="0.20000000000000018" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="5.52" dur="3.4800000000000004" event="Female_speech_woman_speaking" text="can you take such a devastating toll zareen Shah joins us now">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="7.08" dur="1.8399999999999999" event="Male_speech_man_speaking" text="call zareen Shah joins us now">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="9.32" dur="2.08" event="Female_speech_woman_speaking" text="destination site in Inglewood California">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="11.56" dur="5.159999999999998" event="Female_speech_woman_speaking" text="we know how important vaccines are to ending the pandemic">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

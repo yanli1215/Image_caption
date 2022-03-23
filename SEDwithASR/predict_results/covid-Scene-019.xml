@@ -1,0 +1,7 @@
+<AudioDoc name="covid-Scene-019.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.48" dur="4.32" event="Female_speech_woman_speaking" text="its first case of the South Africa variant in a Long Island president">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="0.64" dur="2.8" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="5.36" dur="1.6399999999999997" event="Female_speech_woman_speaking" text="Maxine">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

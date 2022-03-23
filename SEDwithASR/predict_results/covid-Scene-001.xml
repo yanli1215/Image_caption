@@ -1,0 +1,18 @@
+<AudioDoc name="covid-Scene-001.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.64" dur="3.9199999999999995" event="Female_speech_woman_speaking" text="Knights other major Story the US approaching another Dreadful milestone">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="1.16" dur="0.8400000000000001" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="2.2" dur="0.2799999999999998" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="4.64" dur="0.40000000000000036" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="6.16" dur="4.76" event="Female_speech_woman_speaking" text="thousand American lives lost since the first reported death in this country just a little over a year ago">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="7.0" dur="0.7199999999999998" event="Male_speech_man_speaking" text="UNKNOWN">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="10.96" dur="0.47999999999999865" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="11.48" dur="3.719999999999999" event="Female_speech_woman_speaking" text="half a million lives that's more than the Americans who died in battle">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="15.4" dur="2.2799999999999994" event="Male_speech_man_speaking" text="World War 1 World War 2 and a Viet">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="16.92" dur="1.6799999999999997" event="Female_speech_woman_speaking" text="Vietnam War combined">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="18.64" dur="0.5199999999999996" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="19.16" dur="0.3999999999999986" event="Female_speech_woman_speaking" text="UNKNOWN">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="20.52" dur="1.4800000000000004" event="Female_speech_woman_speaking" text="contribute">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="21.88" dur="0.120000000000001" event="Conversation">Conversation</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

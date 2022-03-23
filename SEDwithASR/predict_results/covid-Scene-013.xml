@@ -1,0 +1,7 @@
+<AudioDoc name="covid-Scene-013.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.32" dur="0.6799999999999999" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="0.32" dur="1.9999999999999998" event="Female_speech_woman_speaking" text="I'm passing away 28 days apart">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="2.64" dur="1.52" event="Female_speech_woman_speaking" text="want to be with her and hold her">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

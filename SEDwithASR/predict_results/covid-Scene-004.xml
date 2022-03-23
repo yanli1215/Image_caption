@@ -1,0 +1,6 @@
+<AudioDoc name="covid-Scene-004.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.64" dur="1.3599999999999999" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="0.72" dur="1.68" event="Female_speech_woman_speaking" text="tonight">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

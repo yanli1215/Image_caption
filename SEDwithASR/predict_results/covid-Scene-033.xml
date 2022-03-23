@@ -1,0 +1,11 @@
+<AudioDoc name="covid-Scene-033.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.0" dur="3.36" event="Siren">Siren</SoundSegment>
+		<SoundSegment stime="1.36" dur="6.96" event="Male_speech_man_speaking" text="hi everyone George Stephanopoulos here thanks for checking out the ABC News YouTube channel you'd like to get more video show highlights and watch live event coverage">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="4.92" dur="0.2400000000000002" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="8.32" dur="0.27999999999999936" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="8.6" dur="6.08" event="Male_speech_man_speaking" text="click on the right over here to subscribe to our Channel and don't forget to download the ABC News app for breaking news alert">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="14.88" dur="0.5999999999999996" event="Male_speech_man_speaking" text="UNKNOWN">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="15.88" dur="0.11999999999999922" event="Male_speech_man_speaking" text="UNKNOWN">Male_speech_man_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

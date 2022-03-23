@@ -1,0 +1,7 @@
+<AudioDoc name="covid-Scene-027.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.56" dur="0.43999999999999995" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="0.56" dur="2.8" event="Female_speech_woman_speaking" text="the vaccine just did not come soon enough">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="1.36" dur="0.6399999999999999" event="Conversation">Conversation</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

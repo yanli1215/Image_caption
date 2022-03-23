@@ -1,0 +1,8 @@
+<AudioDoc name="covid-Scene-020.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="0.16" dur="3.96" event="Male_speech_man_speaking" text="if in fact this becomes more dominant we may have to get">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="4.36" dur="2.3199999999999994" event="Male_speech_man_speaking" text="a version of the vaccine">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="6.72" dur="0.28000000000000025" event="Breathing">Breathing</SoundSegment>
+		<SoundSegment stime="6.88" dur="3.12" event="Male_speech_man_speaking" text="that is directed specifically against the South">Male_speech_man_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>

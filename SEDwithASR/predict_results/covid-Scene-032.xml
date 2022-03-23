@@ -1,0 +1,14 @@
+<AudioDoc name="covid-Scene-032.wav">
+	<SoundCaptionList>
+		<SoundSegment stime="1.0" dur="16.36" event="Female_speech_woman_speaking" text="vaccinations are happening right behind me and more could be on the way on Friday and it could green-light it as early as next weekend and we could have the first shots and two arms by March 1st">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="1.48" dur="0.3600000000000001" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="4.2" dur="0.3199999999999994" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="4.68" dur="0.3200000000000003" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="5.32" dur="0.47999999999999954" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="6.16" dur="0.6399999999999997" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="7.56" dur="0.47999999999999954" event="Conversation">Conversation</SoundSegment>
+		<SoundSegment stime="9.36" dur="0.5200000000000014" event="Male_speech_man_speaking" text="UNKNOWN">Male_speech_man_speaking</SoundSegment>
+		<SoundSegment stime="17.76" dur="0.35999999999999943" event="Female_speech_woman_speaking" text="UNKNOWN">Female_speech_woman_speaking</SoundSegment>
+		<SoundSegment stime="18.64" dur="2.3599999999999994" event="Female_speech_woman_speaking" text="much-needed relief there's Orion Shaw">Female_speech_woman_speaking</SoundSegment>
+	</SoundCaptionList>
+</AudioDoc>
