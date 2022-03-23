@@ -35,6 +35,7 @@ Type the following code to start captioning.
 You can also run keyframe extraction section, image captioning section, sound event detection section seperately. Please refer to the report's Implementation section.
 ## Result
 The image captioning results and sound events detected is stored in the "covid.mp4-OUTPUT-SED.json".
+
 For more specific SED with ASR results, you can go to ./SEDwithASR/predict_results folder to see the .xml files for each story unit.
 
 ## Evaluation
